@@ -1,6 +1,6 @@
 # Add implementation1
 def add(x,y) :
-     return x+y  // on bug123 
+     return x+y  # on bug123 
 # Sub implementation1 
 def substract(x,y) :
      pass
