@@ -1,14 +1,14 @@
 # Add implementation
 def add(x,y) :
      pass 
-# Sub Impl    
+# Sub implementation  
 def substract(x,y) :
      pass
 
-# Multiply  impl	 
+# Multiply  implementation	 
 def multiply(x,y) :
      pass
 
-# Divide Impl
+# Divide implementation
 def divide(x,y) :
      pass
